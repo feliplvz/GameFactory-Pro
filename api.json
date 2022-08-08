@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "CPU Intel Core i9-7960X 2.8GHz",
+        "img": "./img/inteli9.jpg",
+        "precio": 998991
+    },
+    {
+        "id": 2,
+        "title": "CPU Ryzen 9 5950X (AM4)",
+        "img": "./img/ryzen9.jpg",
+        "precio": 729992
+    },
+    {
+        "id": 3,
+        "title": "CPU Intel Core i9-12900K",
+        "img": "./img/intel912.webp",
+        "precio": 728890 
+    },
+    {
+        "id": 4,
+        "title": "CPU Ryzen 7 5800X (AM4)",
+        "img": "./img/ryzen7.png",
+        "precio": 390800
+    },
+    {
+        "id": 5,
+        "title": "CPU Intel Core i7-12700K",
+        "img": "./img/i7in.webp",
+        "precio": 499800
+    },
+    {
+        "id": 6,
+        "title": "CPU Intel Core i5-12600K",
+        "img": "./img/inteli5.jpg",
+        "precio": 349900
+    },
+    {
+        "id": 7,
+        "title": "CPU Intel Core i5-12600K",
+        "img": "./img/ryzen5.webp",
+        "precio": 260000
+    },
+    {
+        "id": 8,
+        "title": "CPU Intel Core i5-10600K 4.1GHz",
+        "img": "./img/inteli5c.webp",
+        "precio": 239990
+    },
+    {
+        "id": 9,
+        "title": "Video NVIDIA GeForce RTX3090 O24GB",
+        "img": "./img/tarjeta1.jpg",
+        "precio": 2200000
+    },
+    {
+        "id": 10,
+        "title": "Video NVIDIA GeForce RTX3080Ti",
+        "img": "./img/tarjeta2.webp",
+        "precio": 1490000
+    },
+    {
+        "id": 11,
+        "title": "Video AMD Radeon RX 6800XT O16GB",
+        "img": "./img/tarjeta3.jpg",
+        "precio": 1299000
+    },
+    {
+        "id": 12,
+        "title": "Video NVIDIA GeForce RTX3080 O10GB",
+        "img": "./img/tarjeta4.webp",
+        "precio": 1120000
+    },
+    {
+        "id": 13,
+        "title": "Video ASUS Dual GeForce RTX 2060 6GB",
+        "img": "./img/tarjeta5.jpg",
+        "precio": 450000
+    },
+    {
+        "id": 14,
+        "title": "Video NVIDIA GeForce RTX3070 8GB",
+        "img": "./img/tarjeta6.jpg",
+        "precio": 739990
+    },
+    {
+        "id": 15,
+        "title": "Video EVGA GeForce RTX 2060 12GB",
+        "img": "./img/tarjeta7.jpg",
+        "precio": 850000
+    },
+    {
+        "id": 16,
+        "title": "Video ZOTAC GeForce RTX 3090 24GB",
+        "img": "./img/tarjeta8.jpg",
+        "precio": 3200000
+    },
+    {
+        "id": 17,
+        "title": "Gabinete mATX Matrexx 30",
+        "img": "./img/gabi1.jpg",
+        "precio": 35990
+    },
+    {
+        "id": 18,
+        "title": "Gabinete ATX F601 Gaming Edition",
+        "img": "./img/gabi2.jpg",
+        "precio": 49990
+    },
+    {
+        "id": 19,
+        "title": "Gabinete mATX K1",
+        "img": "./img/gabi3.jpg",
+        "precio": 49990
+    },
+    {
+        "id": 20,
+        "title": "Gabinete E-ATX Brufen ",
+        "img": "./img/gabi4.webp",
+        "precio": 79990
+    }
+]

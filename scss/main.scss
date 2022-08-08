@@ -1,0 +1,16 @@
+@import "./utilities/variables",
+        "./utilities/functions",
+        "./utilities/mixins",
+        "./utilities/medias";
+
+@import "./base/reset",
+        "./base/typo";
+
+@import "./layout/navbar",
+        "./layout/footer";
+
+@import './components/botones',
+        './components/inputs',
+        './components/cards';
+
+@import "./views/index";
