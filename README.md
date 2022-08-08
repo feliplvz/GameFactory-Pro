@@ -1,3 +1,3 @@
-# GameFactory-Project
-# GameFactory-Project
 # GameFactory-Pro
+
+Optimizando el proyecto, arreglando unos errores visuales y agregando otra Librería, Sweet Alert aparte del Toastify para lograr la alerta de "Compra exitosa" al finalizar la compra del carrito. Así mismo haciendo uso del Json para llamar a los datos mediante un FetchData y recopilándolos con un ForEach. La verdad con este curso de JS he avanzado bastante en lo que es conocimientos de este Mundillo, anteriormente sólo he dado Desarrollo Web y la verdad que antes de eso no sabía nada nada sobre esto. Igualmente me ha costado, aveces tengo que ver las clases más de una vez.. Pero todo sea por mejorar! Muchas gracias a mi Tutor y al Profe, son un 10 de 10 Chicos. 
